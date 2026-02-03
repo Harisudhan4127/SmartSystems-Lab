@@ -1,0 +1,12 @@
+a or b
+
+
+a
+electronic---should math with filename
+doi--should math with this formate-- 10.1009_oso_{print}_001_0001
+should compare print and electr no
+
+b
+electronic---should math with filename
+doi--should math with this formate-- 10.1009_{electronic}_001_0001
+should compare print and electr no
